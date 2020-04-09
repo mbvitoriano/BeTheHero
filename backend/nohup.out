@@ -1,0 +1,103 @@
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Initializing caja-open-terminal extension
+
+(caja:14095): Gtk-CRITICAL **: 14:32:15.915: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14095): Gtk-CRITICAL **: 14:32:15.916: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14095): Gtk-CRITICAL **: 14:32:15.917: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14095): Gtk-CRITICAL **: 14:32:15.917: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14095): Gtk-CRITICAL **: 14:32:15.917: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14095): Gtk-CRITICAL **: 14:32:15.917: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Initializing caja-open-terminal extension
+
+(caja:14414): Gtk-CRITICAL **: 14:34:24.385: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14414): Gtk-CRITICAL **: 14:34:24.385: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14414): Gtk-CRITICAL **: 14:34:24.386: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14414): Gtk-CRITICAL **: 14:34:24.386: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14414): Gtk-CRITICAL **: 14:34:24.386: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14414): Gtk-CRITICAL **: 14:34:24.386: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Initializing caja-open-terminal extension
+
+(caja:14747): Gtk-CRITICAL **: 14:36:41.059: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14747): Gtk-CRITICAL **: 14:36:41.060: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14747): Gtk-CRITICAL **: 14:36:41.060: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14747): Gtk-CRITICAL **: 14:36:41.060: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14747): Gtk-CRITICAL **: 14:36:41.060: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:14747): Gtk-CRITICAL **: 14:36:41.061: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Initializing caja-open-terminal extension
+
+(caja:15009): Gtk-CRITICAL **: 14:38:17.822: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:15009): Gtk-CRITICAL **: 14:38:17.823: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:15009): Gtk-CRITICAL **: 14:38:17.824: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:15009): Gtk-CRITICAL **: 14:38:17.824: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:15009): Gtk-CRITICAL **: 14:38:17.824: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:15009): Gtk-CRITICAL **: 14:38:17.824: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+Initializing caja-open-terminal extension
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+
+(caja:22996): Gtk-CRITICAL **: 14:44:35.450: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:22996): Gtk-CRITICAL **: 14:44:35.451: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:22996): Gtk-CRITICAL **: 14:44:35.451: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:22996): Gtk-CRITICAL **: 14:44:35.451: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:22996): Gtk-CRITICAL **: 14:44:35.451: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(caja:22996): Gtk-CRITICAL **: 14:44:35.451: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+[93m[WARN 14:29:58.182897][0m [Environment:161] XDG_SESSION_CLASS not set in this environment!
+[93m[WARN 14:33:34.478772][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:33:34.479086][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:35:00.882278][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:35:00.882554][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:36:22.427160][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:36:22.427378][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:37:06.779539][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:37:06.780200][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:37:12.613173][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:37:12.613774][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Notion'
+[93m[WARN 14:42:36.453166][0m [Wnck] Received a timestamp of 0; window activation may not function properly.
+[93m[WARN 14:44:01.153909][0m [WindowControl:79] Window-manager changed: (null)
+[91m[CRITICAL 14:44:01.217246][0m [DockWindow:297] Retry #1 update_size_and_position() to force requested values!
+[93m[WARN 14:44:01.488769][0m [WindowControl:79] Window-manager changed: Mutter (Muffin)
+[91m[CRITICAL 14:44:02.198693][0m [DockWindow:297] Retry #1 update_size_and_position() to force requested values!
+[91m[CRITICAL 14:44:02.209215][0m [DockWindow:297] Retry #2 update_size_and_position() to force requested values!
+[93m[WARN 14:44:02.390511][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Files'
+[93m[WARN 14:44:02.390797][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Files'
+[93m[WARN 14:44:02.390935][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Files'
+[93m[WARN 14:44:02.416623][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Files'
+[93m[WARN 14:44:02.416692][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Image Viewer'
+[93m[WARN 14:44:02.416920][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Files'
+[93m[WARN 14:44:02.416972][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Image Viewer'
+[93m[WARN 14:44:02.417095][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Files'
+[93m[WARN 14:44:02.417153][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Image Viewer'
+[93m[WARN 14:44:02.680126][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Files'
+[93m[WARN 14:44:02.680264][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Image Viewer'
+[93m[WARN 14:44:03.363849][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Files'
+[93m[WARN 14:44:03.363984][0m [PositionManager:683] Without a draw_value there is trouble ahead for 'Image Viewer'
+[93m[WARN 14:46:41.578286][0m [AbstractMain:42] Caught signal (2), exiting
