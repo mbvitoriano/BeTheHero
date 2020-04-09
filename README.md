@@ -23,6 +23,11 @@
 <b>Be the Hero</b> is an application concept made by [Rocket Seat](https://www.rocketseat.com.br) where NGOs are able to register cases in which they are working and provide contact information in order to find people interested in making a contribution.
 The Application was built following the guidance of [Diego Fernandes](https://github.com/diego3g) in "Semana Omnistack 11"
 
+### Deployment
+You can test the web or the mobile application on the following links:
+Web: https://mbvitoriano.github.io/BTH
+Mobile: https://1drv.ms/u/s!Amy2nIam3pCVkr8jIb4yoMZnVH_XHg?e=5SigPU
+
 ### Notes
 All notes taken in the course (in portuguese) can be found on my [Notion Page](https://www.notion.so/Semana-Omnistack-11-2444d294eb114084847871f045bd182a)
 
