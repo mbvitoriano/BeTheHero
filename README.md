@@ -25,6 +25,7 @@ The Application was built following the guidance of [Diego Fernandes](https://gi
 
 ### Deployment
 You can test the web or the mobile application on the following links:
+
 Web: https://mbvitoriano.github.io/BTH
 Mobile: https://1drv.ms/u/s!Amy2nIam3pCVkr8jIb4yoMZnVH_XHg?e=5SigPU
 
