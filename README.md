@@ -35,3 +35,6 @@ All notes taken in the course (in portuguese) can be found on my [Notion Page](h
 
 ### License
 This project is under an MIT license. See the file [LICENSE](LICENSE.md) for more detail.
+
+
+
